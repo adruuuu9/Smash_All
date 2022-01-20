@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/All/Scenes/CarlosScene.unity
+    guid: aac1368004416374cae76fff3e91f19a
   m_configObjects: {}
